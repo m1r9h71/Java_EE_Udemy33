@@ -1,4 +1,4 @@
-# Java_EE_Udemy34
+# Java_EE_Udemy33
 Named Queries On Entity classes
 
 In Flight: 
